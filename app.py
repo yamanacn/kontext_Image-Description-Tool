@@ -106,7 +106,7 @@ config = load_config_for_ui()
 
 # 创建 Gradio 界面
 with gr.Blocks(theme=gr.themes.Soft()) as demo:
-    gr.Markdown("# 豆包 API 双图对比分析工具 (多线程版)")
+    gr.Markdown("# 豆包 API 双图对比分析工具-作者OLDX")
     gr.Markdown("输入两个包含成对图片的文件夹路径，程序将使用多线程并发分析，并将结果保存在第二个文件夹中。")
 
     with gr.Tabs():
