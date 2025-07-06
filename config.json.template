@@ -1,0 +1,9 @@
+{
+  "ARK_API_KEY": "YOUR_ARK_API_KEY_HERE",
+  "MODEL_ID": "ep-20250705181415-gkgwc",
+  "ARK_BASE_URL": "https://ark.cn-beijing.volces.com/api/v3",
+  "PROMPT": "请对比分析这两张图片，总结它们之间的核心差异和共同点。",
+  "MAX_WORKERS": 5,
+  "INPUT_PRICE_PER_1K_TOKENS": 0.003,
+  "OUTPUT_PRICE_PER_1K_TOKENS": 0.009
+} 
